@@ -1,0 +1,10 @@
+S0001#David#Staff#4000000
+S0002#Tim#Staff#5000000
+S0003#Arnold#Staff#4500000
+S0004#Patrick#Staff#6000000
+S0005#Vincent#Officer#8000000
+S0006#Wilson#Officer#9000000
+S0007#Michael#Officer#8500000
+S0008#Philip#Staff#12000000
+S0009#Nimo#Manager#15000000
+S0010#Oblak#Manger#20000000
